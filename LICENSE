@@ -1,0 +1,48 @@
+LICENSE / NOTICE — LAFC-Evict tutorial
+=======================================
+
+This repository bundles two distinct layers with different rights holders.
+Read this notice before reusing any content from this repository.
+
+1. LAFC-Evict dataset (not redistributed in this repository)
+--------------------------------------------------------------
+
+The LAFC-Evict dataset itself is licensed CC0 1.0 Universal (public-domain
+dedication) by its author, Soroush Vahidi, as published on its authoritative
+public release:
+
+    https://huggingface.co/datasets/SoroushVahidi/lafc-evict
+
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+No dataset rows, Parquet files, or other data payloads are stored in this
+repository. This repository contains only a tutorial notebook and
+documentation that describe how to access and use the dataset.
+
+2. Tutorial materials in this repository
+--------------------------------------------------------------
+
+The tutorial notebook (`get-to-know-a-dataset.ipynb`) and this README are
+original works authored by Soroush Vahidi. To match the dataset's own
+licensing and to keep reuse simple, these materials are dedicated to the
+public domain under CC0 1.0 Universal:
+
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+Scholarly attribution is requested but not legally required — see the
+citation entry in `README.md`.
+
+3. Upstream third-party data (referenced, not redistributed)
+--------------------------------------------------------------
+
+LAFC-Evict is derived from Wikimedia's public pageview data, which is
+licensed CC0 1.0 by the Wikimedia Foundation:
+
+    https://dumps.wikimedia.org/other/pageviews/
+
+This repository and the dataset it describes make no ownership claim over
+the upstream Wikimedia data. No raw Wikimedia rows, page titles, or other
+third-party trace data appear anywhere in this repository or in the
+dataset it documents. Anyone using the upstream Wikimedia data directly
+should cite Wikimedia and follow Wikimedia's own terms, independent of this
+repository's or the dataset's licensing.
